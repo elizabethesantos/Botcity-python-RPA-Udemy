@@ -3,7 +3,7 @@ texto = "Charles"
 verdade = True
 
 # print(numero, texto, verdade)
-print('Numero: ' +str(numero), f' Texto: {texto}',f' Verdade: {str(verdade)}' )
+print('Numero: ' +str(numero), f' Texto: {texto}',f' Verdade: {str(verdade)}')
 # print(type(numero), type(texto), type(verdade))
 
 if texto != 'João':
